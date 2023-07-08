@@ -186,40 +186,40 @@ Based on the plot, it can be observed that the correlation between age where the
 
 # Hypothesis Testing
 Question 1 : The annual premium for those previously insured is less than or equal to the annual premium for those not previously insured
-H0 = Annual premium have previously insured <= annual premium not have previously insured
-H1 = Annual premium have previously insured > annual premium not have previously insured
+- H0 = Annual premium have previously insured <= annual premium not have previously insured
+- H1 = Annual premium have previously insured > annual premium not have previously insured
 
 ![image](https://github.com/inesiameita/Probability-Project/assets/128911434/4a71b805-f5c2-4a96-8876-32e621f55703)
 
 From the above result, it is known that the p-value is 0.00382, therefore H0 is rejected. This means that there is enough evidence to conclude that there is a significant difference between the tested groups, indicating that the Annual Premium for those who have previously insured is greater than the annual premium for those who have not previously insured.
 
 Question 2 : The annual premium have driven license is less than annual premium not have driven license
-H0 = Annual premium have driven license <= annual premium not have driven license
-H1 = Annual premium have driven license > annual premium not have driven license
+- H0 = Annual premium have driven license <= annual premium not have driven license
+- H1 = Annual premium have driven license > annual premium not have driven license
 
 ![image](https://github.com/inesiameita/Probability-Project/assets/128911434/b17da756-11df-4680-bf8c-59a8206885a8)
 
 From the above result, it is known that the p-value is 0.9999999999920179, we fail to reject H0. This means that there is not enough evidence to conclude the presence of a significant difference between the tested groups. In this context, we cannot draw the conclusion that the alternative hypothesis H1 is true or that a significant difference exists between the tested groups, indicating that the Annual Premium for those who have have driven license is less than or equal to the annual premium for those who have not driven license.
 
 Question 3 : The proportion of license-driven owners with response 1 is greater than or equal to the proportion of non-license-driven owners with response 1
-H0 = Proportion of license-driven owners with response 1 >= proportion of non-license-driven owners with response 1
-H1 = Proportion of license-driven owners with response 1 < proportion of non-license-driven owners with response 1
+- H0 = Proportion of license-driven owners with response 1 >= proportion of non-license-driven owners with response 1
+- H1 = Proportion of license-driven owners with response 1 < proportion of non-license-driven owners with response 1
 
 ![image](https://github.com/inesiameita/Probability-Project/assets/128911434/14347f63-965c-44ac-ad56-2e967269b6ee)
 
 From the above result, it is known that the p-value is 0.0.9999999998185439, we fail to reject H0. This means that there is not enough evidence to conclude the presence of a significant difference between the tested groups. In this context, we cannot draw the conclusion that the alternative hypothesis H1 is true or that a significant difference exists between the tested groups, indicating that the proportion of license-driven owners with interested in having insurance is greater than or equal to proportion of non-license-driven owners with interested in having insurance.
 
 Question 4 : The proportion of previous insurance owners with response 1 is greater than or equal to the proportion of insurance owners with response 0
-H0 = Proportion of previous insurance owners with response 1 >= proportion of insurance owners with response 0
-H1 = Proportion of previous insurance owners with response 1 < proportion of insurance owners with response 0
+- H0 = Proportion of previous insurance owners with response 1 >= proportion of insurance owners with response 0
+- H1 = Proportion of previous insurance owners with response 1 < proportion of insurance owners with response 0
 
 ![image](https://github.com/inesiameita/Probability-Project/assets/128911434/c03e7f42-7921-4f9f-8058-ac00323828bc)
 
 From the above result, it is known that the p-value is 0.0. Therefore, we reject H0 and accept the alternative hypothesis H1, suggesting that there is a significant difference or relationship between the variables being tested. Proportion of previous insurance owners with response 1 is less than proportion of insurance owners with response 0.
 
 Question 5 : The variance of annual premium for males and females is the same
-H0 = variance annual premium for males = variance annual premium females
-H1 = variance annual premium for males ≠ variance annual premium females
+- H0 = variance annual premium for males = variance annual premium females
+- H1 = variance annual premium for males ≠ variance annual premium females
 
 ![image](https://github.com/inesiameita/Probability-Project/assets/128911434/e9f1a86f-5620-40f4-9b52-4a60ebdae59e)
 
@@ -233,4 +233,5 @@ From the above result, it is known that the p-value is 5.114293745910101e-65, we
 
 In conclusion, this analysis provided valuable insights into the vehicle insurance dataset, offering understanding of customer characteristics, preferences, and relationships between variables. The findings can support informed decision-making, optimization of communication strategies, and improvement of the overall business model and revenue.
 
-
+# Extended Report
+For a more detailed report, please refer to the following : https://inesiameita.medium.com/data-analysis-of-customer-vehicle-insurance-5d2612b2e4cf
