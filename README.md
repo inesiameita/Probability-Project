@@ -34,6 +34,7 @@ The dataset has been successfully imported using the "pd.read_csv" function. By 
 ![image](https://github.com/inesiameita/Probability-Project/assets/128911434/d6ed341f-6b97-4613-9323-18d780e4c161)
 
 Next, we identify NaN values and we identify if there are any duplicate data in the dataset we are using the following approach:
+
 ![image](https://github.com/inesiameita/Probability-Project/assets/128911434/1111bf5d-40b6-49a5-ba44-8654b8a48dc1)
 
 ![image](https://github.com/inesiameita/Probability-Project/assets/128911434/9bc514c3-803a-4f4a-a300-fb39271f6a44)
